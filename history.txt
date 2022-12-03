@@ -1,0 +1,501 @@
+  213  cd C 2022
+  214  ls
+  215  git init
+  216  echo "# Programmation-C" >> README.md
+  217  git init
+  218  git add README.md
+  219  git add README.md
+  220  git status
+  221  ls
+  222  ls
+  223  git init
+  224  git add README.md
+  225  git add README.md
+  226  git push
+  227  cd /des
+  228  ssh-keygen
+  229  cd ~
+  230  ls
+  231  cd /
+  232  ls
+  233  cd ..
+  234  ls
+  235  git init
+  236  ls
+  237  ls
+  238  lq
+  239  ls
+  240  cd ~
+  241  cd Desktop/
+  242  ls
+  243  cd dossier/
+  244  git clone https://github.com/kodjoSoule/TP-GIT.git
+  245  ls
+  246  cd TP-GIT/
+  247  ls
+  248  s -a
+  249  ls -a
+  250  cd .git
+  251  ls
+  252  cd config 
+  253  vim config
+  254  ls
+  255  cd ..
+  256  ls
+  257  touch index.html
+  258  git status
+  259  git branch -l
+  260  git branch
+  261  git checkout develop
+  262  git fetch origin develop
+  263  git branch -l
+  264  git status
+  265  git add --all
+  266  git status
+  267  git commit -m "Ajout du fichier index.html"
+  268  git config --gloal user.name "Kodjo Souleymane"
+  269  git config --gloal user.name "Kodjo Souleymane"
+  270  git config --global user.name "Kodjo Souleymane"
+  271  git commit -m "Ajout du fichier index.html"
+  272  git status
+  273  git status
+  274  git push origin develop
+  275  git log
+  276  git reflog
+  277  ls
+  278  vim index.html 
+  279  git add --all
+  280  git commit -m "Ajout de bouton"
+  281  git push
+  282  vim index.html 
+  283  git checkout main
+  284  git merge develop
+  285  cd ..
+  286  ls
+  287  history
+  288  history > tp1.txt
+  289  ls
+  290  mkdir TP-GIT2
+  291  ls
+  292  cd TP-GIT2
+  293  ls
+  294  git init
+  295  touch index.html
+  296  touch .gitigore
+  297  touch README.md
+  298  touch LICENSE
+  299  ls
+  300  cd ..
+  301  ls
+  302  code TP-GIT2
+  303  ls
+  304  ls -a
+  305  touch .gitigore
+  306  ls -a
+  307  ls
+  308  cd TP-GIT2/
+  309  ls
+  310  ls -a
+  311  echo ".VScode
+  312  echo ".VScode"
+  313  echo ".VScode" >> .gitignore
+  314  echo ".DS_Store" >> .gitignore
+  315  echo ".idea" >> .gitignore
+  316  echo ".env" >> .gitignore
+  317  echo ".env.exemple" >> .gitignore
+  318  echo "pratique.txt" >> .gitignore
+  319  git add .
+  320  git add .
+  321  git commit -m "first-commit"
+  322  git branch -M main
+  323  git remote add origin git@github.com:kodjoSoule/TP-GIT2.git
+  324  git status
+  325  ls
+  326  ls -a
+  327  cd .
+  328  code .
+  329  code .
+  330  ls -a
+  331  cd .git
+  332  ls
+  333  git checkout -b develop
+  334  cd ..
+  335  ls
+  336  git checkout -b develop
+  337  touch index.html
+  338  git add -all
+  339  git add --all
+  340  vim index.html 
+  341  git add --all
+  342  git add --all
+  343  git commit -m "Ajout d'un titre dans index.html"
+  344  git push origin develop
+  345  git checkout main
+  346  git branch
+  347  git branch -M main
+  348  git branch
+  349  git push
+  350  git merge develop
+  351  git push origin main
+  352  git remote
+  353  git remote develop
+  354  git remote
+  355  code .
+  356  git add --all
+  357  git commit -m "ajout p3 "
+  358  git push
+  359  git push origin
+  360  git checkout develo
+  361  git checkout develop
+  362  git add --all
+  363  git commit -m "ajout p3 "
+  364  git push origin develop
+  365  code .
+  366  code .
+  367  git pull origin develop
+  368  git pull origin main
+  369  ls
+  370  code .
+  371  history > tp2.txt
+  372  git clone https://github.com/sanou16/projetHtmml.git
+  373  git clone https://github.com/sanou16/projetHtml.git
+  374  cd projetHtml/
+  375  ls
+  376  git config goblal user.email = "Kodjo Souleymane"
+  377  git config --goblal user.email = "Kodjo Souleymane"
+  378  git config --goblal user.name = "Kodjo Souleymane"
+  379  git config goblal user.name = "Kodjo Souleymane"
+  380  git config --goblal user.name = "Kodjo Souleymane"
+  381  git config --goblal user.name = "Kodjo Souleymane"
+  382  git checkout -b develop
+  383  ls
+  384  touch index.html
+  385  git add -A
+  386  git commit -m "Creation du fichier index.html"
+  387  git push origin develop
+  388  git push
+  389  git remote
+  390  git remote origin
+  391  git remote origin -v
+  392  git remote -v
+  393  git push
+  394  git push -u origin
+  395  git push -u origin develop
+  396  git checkout main
+  397  git push
+  398  git push -u origin develop
+  399  git remote origin --add https://github.com/sanou16/projetHtml.git
+  400  git remote -v
+  401  git push -u origin main
+  402  cd ..
+  403  cd ..
+  404  git clone https://github.com/sanou16/projetHtml.git
+  405  cd projetHtml/
+  406  ls
+  407  git remote add origin https://github.com/sanou16/projetHtml.git
+  408  git branch -M main
+  409  git push -u origin main
+  410  git checkout -b develop
+  411  git init
+  412  git add -all
+  413  git add --all
+  414  git commit -m "Ajout"
+  415  git push -u origin main
+  416  git checkout main
+  417  git push -u origin main
+  418  git checjout develop
+  419  git checkout develop
+  420  git push -u origin main
+  421  git fetch origin
+  422  git push -u origin main
+  423  git push -u origin main
+  424  cd ..
+  425  cd dossier/
+  426  git clone https://github.com/kodjoSoule/test333.git
+  427  ls
+  428  cd test333/
+  429  ls
+  430  cd ..
+  431  git clone https://github.com/kodjoSoule/TP-TEST1.git
+  432  pwd
+  433  cd Desktop/
+  434  cd dossier/
+  435  git clone hhtps://github.com/kodjoSoule/projetHtml.git
+  436  ls
+  437  rm projetHtml/
+  438  rm -r projetHtml/
+  439  y
+  440  ls
+  441  git clone hhtps://github.com/kodjoSoule/projetHtml.git
+  442  ls
+  443  git clone hhtps://github.com/kodjoSoule/projetHtml.git
+  444  git clone hhtps://github.com/kodjoSoule/projetHtml.git
+  445  cd ..
+  446  mkdir dossier2
+  447  cd dossier2
+  448  git clone hhtps://github.com/kodjoSoule/projetHtml.git
+  449  git clone htps://github.com/kodjoSoule/projetHtml.git
+  450  git clone https://github.com/kodjoSoule/projetHtml.git
+  451  ls
+  452  cd projetHtml/
+  453  ls
+  454  vim README.md 
+  455  git add --all
+  456  git commit -m "MAJ by Kodjo"
+  457  git add .
+  458  git add ..
+  459  git status
+  460  git rm -r
+  461  git rm
+  462  git rm README.md 
+  463  git status
+  464  ls
+  465  cd ..
+  466  cd ..
+  467  cd dossier
+  468  git clone https://github.com/kodjoSoule/projetHtml.git
+  469  cd projetHtml/
+  470  ls
+  471  vim README.md 
+  472  git checkout -b develop
+  473  git add --all
+  474  git commit -m "MAJ by Kodjo"
+  475  git push origin develop
+  476  git checkout main
+  477  git merge develop
+  478  git pull
+  479  git fe
+  480  git pull
+  481  ls
+  482  vim README.md 
+  483  git remote
+  484  git remote -v
+  485  git checkout
+  486  git checkout develop
+  487  git pull
+  488  git fetch origin
+  489  git pull
+  490  vim README.md 
+  491  VIM README
+  492  VIM README.md 
+  493  git pull origin main
+  494  ls
+  495  vim README.md 
+  496  git pull origin develop
+  497  vim README.md 
+  498  LS
+  499  more
+  500  subl
+  501  notepad
+  502  notepad tp1.txt 
+  503  ls
+  504  cd TP-GIT2/
+  505  ls
+  506  notepad tp2.txt 
+  507  notepad tp2Bis.txt
+  508  vim tp2Bis.txt 
+  509  code tp2Bis.txt 
+  510  notepad tp2.txt 
+  511  ls
+  512  history
+  513  notepad tp2.txt 
+  514  ls
+  515  code index.html 
+  516  code tp2.txt
+  517  code README.md
+  518  git branch
+  519  git branch main 
+  520  git log -1
+  521  code index.html
+  522  git branch main 
+  523  notepad tp2.txt 
+  524  git merge conflicting_branch
+  525  git merge conflicting_branch
+  526  git merge conflicting_branch
+  527  git commit -m "update"
+  528  git push origin develop
+  529  touch hello.c
+  530  vim hello.c
+  531  git add --all
+  532  git add --all
+  533  git commit -m "Ajout de fichier hello.c"
+  534  vim hello.c 
+  535  git add --all
+  536  git add --all
+  537  git status
+  538  git restore --staged
+  539  git restore --staged
+  540  git restore --stage
+  541  git restore --staged
+  542  git restore
+  543  git restore --staged *
+  544  ls
+  545  vim hello.c 
+  546  git restore --staged hello.c 
+  547  vim hello.c 
+  548  git status
+  549  git restore hello.c 
+  550  vim hello.c 
+  551  git log -1
+  552  git remote -v
+  553  cd ..
+  554  mkdir ESMT-TP-GIT
+  555  cd ESMT-TP-GIT/
+  556  ls
+  557  touch Tp.txt
+  558  echo "Fichier important qu'on doit ajouter au projet"
+  559  touch README.md
+  560  touch .gitignore
+  561  touch LICENSE
+  562  ls
+  563  vim Tp.txt 
+  564  more
+  565  more Tp.txt 
+  566  vi Tp.txt 
+  567  git init
+  568  git add --all
+  569  git add --all
+  570  ls
+  571  git add remote origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  572  git add remote origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  573  git remote origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  574  git remote add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  575  git push -u origin main
+  576  git push -u origin main
+  577  git remote add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  578  git push -u origin main
+  579  git push origin main
+  580  git push origin master
+  581  git status
+  582  git commit -m "First commit"
+  583  git push origin master
+  584  git log -1
+  585  ls
+  586  cat
+  587  cat .git/config
+  588  git remote get-url --all origin
+  589  echo "capture l'url de referencre 
+"
+  590  git remote  rm origin
+  591  git remote get-url --all origin
+  592  git push origin master
+  593  git relote add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  594  git relmte add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  595  git remote add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  596  git push origin master
+  597  git status
+  598  git remote -v
+  599  git push -u origin master
+  600   git remote add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git
+  601  git push -u origin master
+  602  git add --all
+  603  git add --all
+  604  git commit -m "MAJ Tp.txt"
+  605  git push -u origin master
+  606  git push origin master
+  607  git remote  rm origin
+  608   git remote add origin git@github.com:kodjoSoule/ESMT-TP-GIT.git
+  609  git push origin master
+  610  git checkout -b develop
+  611  git add --all
+  612  git status
+  613  ls
+  614  git add --all
+  615  git status
+  616  git commit -m "creation de branche develop"
+  617  git status
+  618  git push origin develop
+  619  echo "git diff develop main montre l'etat de la branche develop par rapport a la branche main"
+  620  git digg devlop main
+  621  git diff devlop main
+  622  git diff develop main
+  623  git diff develop master
+  624  git diff develop master
+  625  git diff develop main
+  626  git diff 
+  627  git diff --help
+  628  git checkout master
+  629  git diff develop master
+  630  git add .
+  631  git status
+  632  git add .
+  633  git add .
+  634  git status
+  635  git commit -m "difference develop et main"
+  636  git push origin master
+  637  git merge develop
+  638  git diff
+  639  git diff develop
+  640  git diff develop master
+  641  git branch recovery
+  642  git checkout develop
+  643  ls
+  644  code Tp.text
+  645  git add --all
+  646  git add --all
+  647  git commit -m "MAJ"
+  648  git push origin develop
+  649  git checkout develop
+  650  git checkout master
+  651  git merge develop
+  652  code Tp.txt
+  653  git commit -m "MAj conflit"
+  654  git push origin master
+  655  git checkoit -b recovery
+  656  git checkout -b recovery
+  657  git checkout recovery
+  658  ls
+  659  ls
+  660  vim Tp.txt 
+  661  git add --all
+  662  git commit -m "Nouvelle branche recovery"
+  663  git push origin recovery 
+  664  git checkout recovery
+  665  git checkout master
+  666  git merge recovery
+  667  git add --all
+  668  git commit -m "fusion master recovery"
+  669  git push origin master
+  670  git log -1
+  671  git log
+  672  git branch
+  673  git branch -l
+  674  echo "Supprimer une branche "
+  675  git branch -D recovery
+  676  git branch -l
+  677  git push --delete origin recovery
+  678  git branch -l
+  679  ls
+  680  code .
+  681  git remote add deploy git@github.com:kodjoSoule/ESMT-TP-GIT.git
+  682  cat .git/config 
+  683  ls
+  684  rm Tp.text
+  685  ls
+  686  ls
+  687  git branch -l
+  688  git remote rm origin
+  689  git remote add origin git@github.com:kodjoSoule/ESMT-TP-GIT.git
+  690  cat .git/config 
+  691  cat .git/config 
+  692  git remote add origin git@github.com:kodjoSoule/ESMT-TP-GIT.git
+  693  git remote -v
+  694  git add -A
+  695  git commit -m "Ajout du remote deploy"
+  696  git push origin master
+  697  git push deploy master
+  698  git push --set  -upstream origin master
+  699  git push --set-upstream origin master
+  700  git push deploy master
+  701  git checkout develop
+  702  git add .
+  703  git commit -m "update TP.tc"
+  704  git commit -m "update TP.tx"
+  705  git commit -m "update TP.tx"
+  706  git status
+  707  git checkout develop
+  708  git merge master
+  709  git push deploy develop
+  710  ls
+  711  ls
+  712  history > history.txt
