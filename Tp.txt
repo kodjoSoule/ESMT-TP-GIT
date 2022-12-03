@@ -10,3 +10,6 @@ git remote rm origin //supprimer les liens enregistations en local
 
 git remote add origin https://github.com/kodjoSoule/ESMT-TP-GIT.git //Ajouter les liens du remotes 
 d
+git merge 
+git branch recovery 
+git checkout recovery
