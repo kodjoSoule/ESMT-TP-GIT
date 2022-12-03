@@ -1,3 +1,4 @@
+
 git init //Initialiserle projet
 git add --all //permet de faire les indexations 
 git commit -m "" //enregistrer les modifications
